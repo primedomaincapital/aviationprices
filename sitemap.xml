@@ -18,6 +18,10 @@
 <url>
   <loc>https://aviationprices.com/insights/article5</loc>
 </url>
-  <url><loc>https://aviationprices.com/market-data</loc><lastmod>2026-10-31</lastmod></url>
+<url>
+  <loc>https://aviationprices.com/insights/article6</loc>
+  <lastmod>2026-11-15</lastmod>
+</url>
+<url><loc>https://aviationprices.com/market-data</loc><lastmod>2026-10-31</lastmod></url>
 <url><loc>https://aviationprices.com/resources</loc><lastmod>2026-10-31</lastmod></url>
 </urlset>
