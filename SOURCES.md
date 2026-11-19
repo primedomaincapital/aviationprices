@@ -16,3 +16,22 @@ All photography and video licensed under the [Pexels License](https://www.pexels
 | photo-5778703.jpg | 28772726 | https://www.pexels.com/photo/private-jet-at-sunset-on-runway-28772726/ | Private jet on the runway at sunset |
 
 Canvas particle animation removed October 17, 2026 (replaced by cinematic video hero).
+## November 19, 2026 — article hero repointing
+
+The `photo-13779629.jpg` and `photo-12366198.jpg` files listed above are no longer in the repo. Articles 1–6 were repointed to distinct photos that exist in `images/`:
+
+| Article | Hero photo |
+|---|---|
+| 1 | `images/jet-final-approach.jpg` |
+| 2 | `images/jet-night-airstairs.jpg` |
+| 3 | `images/jet-trijet-rear.jpg` |
+| 4 | `images/jet-night-apron.jpg` |
+| 5 | `images/jet-runway-citation.jpg` |
+| 6 | `images/jet-inflight-blue.jpg` |
+
+Two new photos were added November 19, 2026 (Pexels License, free for commercial use, no attribution required):
+
+- `images/jet-runway-citation.jpg` — Pexels photo 13528331, "Sleek private jet on an airport runway" by Gus Flier — https://www.pexels.com/photo/cessna-citation-aircraft-13528331/ — hero for article 5.
+- `images/jet-inflight-blue.jpg` — Pexels photo 40989644, "A sleek private jet soars through a clear blue sky" by stelios BK — https://www.pexels.com/photo/private-jet-flying-against-clear-blue-sky-40989644/ — hero for article 6.
+
+The `.cta-sec` background in articles 1–6 was repointed from the missing `photo-12366198.jpg` to `images/jet-night-apron.jpg`. Articles 7–8 were left untouched; their `.cta-sec` still references the missing `photo-12366198.jpg`.
